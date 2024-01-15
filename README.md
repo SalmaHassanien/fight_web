@@ -20,7 +20,7 @@ src: Directory containing source code
 Java libraries in use
 grpc: Containing libraries related to gRPC module
 grpc-api 1.58.0
-grpc-context 1.58.0
+grpc-context 1.58.0M
 grpc-core 1.58.0
 grpc-netty-shaded 1.58.0
 grpc-protobuf 1.58.0
